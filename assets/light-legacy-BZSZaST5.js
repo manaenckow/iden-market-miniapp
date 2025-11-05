@@ -1,0 +1,1 @@
+System.register([],function(t,e){"use strict";return{execute:function(){var t=document.createElement("style");t.textContent=":root[data-theme=light] .item-description{color:#000}:root[data-theme=light] .star-active{fill:#ffaf28}:root[data-theme=light] .star-default{fill:#ccc}\n/*$vite$:1*/",document.head.appendChild(t)}}});
